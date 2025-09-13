@@ -1,6 +1,8 @@
 # 🧮 Calculator
 
-![Calculator Layout](app/src/main/res/image/layout.PNG)
+<div align="center">
+  <img src="app/src/main/res/image/layout.PNG" alt="Calculator Layout" width="400"/>
+</div>
 
 **Calculator** is a simple calculator app designed to demonstrate **layout creation in XML**, implemented with **Kotlin** and built in **Android Studio**. The app focuses on a clean interface and intuitive user experience.
 
